@@ -1,2 +1,7 @@
 # NUMBER-GUESSING-GAME
-A beginner Python number guessing game using loops, conditions, and user input.
+A beginner Python game where the player gets three chances to guess the secret number.
+# concepts used,
+Variables
+While loops
+If/Else statements
+User input
